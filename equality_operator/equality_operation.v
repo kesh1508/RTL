@@ -1,3 +1,6 @@
+#work equality_operator
+#author keshave
+#date 03-12-2022
 module equality_operator (a,b,y1,y2,y3);
 input[7:0] a,b;
 output y1,y2;
