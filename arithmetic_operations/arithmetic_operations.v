@@ -1,3 +1,6 @@
+#work arithmetic_operation
+#author keshave
+#date 03-12-2022
 module arithmetic_operation (a,b,y1,y2,y3,y4,y5);
 input [3:0] a,b;
 output [4:0] y1;
