@@ -1,3 +1,6 @@
+#work logical_opreator
+#author keshave
+#date 03-12-2022
 module logical_operator (a,b,c,d,e,f,y);
 input [2:0] a,b,c,d,e,f;
 output y;
